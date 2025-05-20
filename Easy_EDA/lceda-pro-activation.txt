@@ -1,0 +1,8 @@
+{
+    "username": "smartman527",
+    "customer_code": "9237764A",
+    "email": "smartman527@outlook.com",
+    "phone": "",
+    "company": "",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,qRiTleuPYPX4c8MVeCQ2Z7PfT6pkrA6fHb37xuO9qdVMjyMZhEnNIM3aADyseyWVJuA2zjU5LeK4wTJjIqtvukg1QIiHMNeV30w9\/iuf5sUBxtcj5fWef8GYiNSH5X5rCzzcgAn4a2+FWcxmcrsjpArsvBHypuwcEQYA8Pg9yoA="
+}
